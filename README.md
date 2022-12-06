@@ -14,8 +14,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![Angular](https://camo.githubusercontent.com/a799a0de9a064f1d6b1f455c88aaa6a835b374050e47e85fd378ae1e928af62f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416e67756c617226636f6c6f723d444430303331266c6f676f3d416e67756c6172266c6f676f436f6c6f723d464646464646266c6162656c3d)
 <!--
 **Vsjee/Vsjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
